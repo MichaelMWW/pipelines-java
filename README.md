@@ -1,4 +1,4 @@
-
+[![Build Status](https://michaelww.visualstudio.com/PSHelloWorld/_apis/build/status/MichaelMWW.pipelines-java?branchName=master)](https://michaelww.visualstudio.com/PSHelloWorld/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
